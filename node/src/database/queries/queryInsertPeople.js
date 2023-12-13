@@ -1,0 +1,1 @@
+export const queryInsertPeople = `INSERT INTO peoples (name) values (":name")`;
